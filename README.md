@@ -16,6 +16,7 @@ The program does the following:
       5.3  In this same loop, the sum of the array elements is calculated. The value of the array element that was printed earlier is added to the sum variable of            the array elements.
       5.4. The value of the loop parameter is compared with the final value. If it is less, the loop continues. Otherwise, it terminates.
       5.5. The loop parameter variable is incremented by the loop step. In this example, it is 1.
+   6. The number of array elements and their sum are displayed on the screen.
 
 Developed in the Microsoft Visual Studio integrated environment.
 
@@ -37,5 +38,6 @@ SumOfElems. ИС Visual Studio. Занятия по C++. Простой Ввод
       5.3  В этой же серии цикла считается сумма элементов массива. К переменной суммы элементов массива прибавляется значение элемента массива, который был                  выведен ранее
       5.4. Значение параметра цикла сравнивается с конечным. Если оно меньше цикл выполняется. В противном случае - завершается.
       5.5. Переменная параметра цикла увеличивается на шаг цикла. В данном примере он равен 1.
+  6. На экран выводится количество элементов массива и их сумма.
 
 Разработано в интегрированной среде Microsoft Visual Studio.
