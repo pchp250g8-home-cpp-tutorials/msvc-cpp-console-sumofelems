@@ -4,17 +4,18 @@ A console application in the C++ programming language.
 The program does the following:
    1. Asks the user to enter the number of elements in the array.
    2. Allocates memory and creates a dynamic array with the number of elements entered previously.
-   3. The first loop with the parameter is executed.
-      3.1. The initial value of the parameter is set to 1, and the final value is set to the number of array elements.
-      3.2. A series of loops are executed, where the array elements are filled by entering data from the keyboard.
-           A message is displayed on the screen indicating which element number needs to be entered.
-      3.3. The value of the loop parameter is compared with the final value. If it is less, the loop continues. Otherwise, it terminates.
-      3.4. The loop parameter variable is incremented by the loop increment. In this example, it is 1.
-   4. The second loop with the parameter is executed.
+   3. A variable for sum of elements of the array is defined. It's value is 0.
+   4. The first loop with the parameter is executed.
       4.1. The initial value of the parameter is set to 1, and the final value is set to the number of array elements.
-      4.2. A series of loops are executed, where the array elements are displayed on the screen in a space-separated string.
+      4.2. A series of loops are executed, where the array elements are filled by random integer values from 1 to 50.
       4.3. The value of the loop parameter is compared with the final value. If it is less, the loop continues. Otherwise, it terminates.
-      4.4. The loop parameter variable is incremented by the loop step. In this example, it is 1.
+      4.4. The loop parameter variable is incremented by the loop increment. In this example, it is 1.
+   5. The second loop with the parameter is executed.
+      5.1. The initial value of the parameter is set to 1, and the final value is set to the number of array elements.
+      5.2. A series of loops are executed, where the array elements are displayed on the screen in a space-separated string.
+      5.3  In this same loop, the sum of the array elements is calculated. The value of the array element that was printed earlier is added to the sum variable of            the array elements.
+      5.4. The value of the loop parameter is compared with the final value. If it is less, the loop continues. Otherwise, it terminates.
+      5.5. The loop parameter variable is incremented by the loop step. In this example, it is 1.
 
 Developed in the Microsoft Visual Studio integrated environment.
 
