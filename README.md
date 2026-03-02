@@ -2,3 +2,10 @@ SumOfElems. C++ Tutorials. Microsoft Visual Studio IDE. Simple Input/Output. Alg
 
 A console application in the C++ programming language. 
 The program does the following:
+
+Developed in the Microsoft Visual Studio integrated environment.
+
+SumOfElems. ИС Visual Studio. Занятия по C++. Простой Ввод/Вывод. Алгоритмы. Массивы. Платформа Windows. Консольное приложение.
+
+Консольное приложение написанное на языке программирования C++. 
+Программа делает следующее:
